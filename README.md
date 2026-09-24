@@ -1,34 +1,44 @@
 # Hi, I'm Weiqi 👋
 
-I'm currently pursuing an MSc in Artificial Intelligence for Enterprise at NTU Singapore.
+I'm pursuing an MSc in Artificial Intelligence for Enterprise at NTU Singapore. I focus on turning business problems into AI workflows that are measurable, reliable, and explicit about human decision boundaries.
 
-I'm interested in building AI products that are useful, measurable, reliable, and deployable in real-world workflows — especially around **Agentic AI, LLM Evaluation, RAG, and Enterprise AI**.
+## Selected projects
 
-## What I'm working on
+### 🥗 [FreshLoop — AI Food Inventory & Meal Planning](https://github.com/keyvi0508-code/freshloop-ai-product)
 
-- 🤖 AI Agent evaluation & deployment economics
-- 🔐 Permission-aware enterprise AI agents
-- 🧠 RAG, grounding & LLM evaluation
-- ⚙️ AI-powered workflow automation
-- 🧩 Turning business problems into testable AI product workflows
+Team-built product prototype combining editable inventory capture, constrained recipe generation, deterministic validation, and a frozen 20-case evaluation suite.
 
-## Selected Projects
+- [Live demo](https://fresh-loop-liard.vercel.app/)
+- [Product case study](https://github.com/keyvi0508-code/freshloop-ai-product/blob/main/docs/product-case-study.md)
+- [Evaluation evidence](https://github.com/keyvi0508-code/freshloop-ai-product/tree/main/evaluation)
 
-### 🏥 Health Insurance Claim First-Response AI Agent
-AI agent evaluation, model benchmarking, failure analysis, and deployment economics.
+### 🏥 [Health Insurance Claim First-Response Agent](https://github.com/keyvi0508-code/health-insurance-agent-case-study)
 
-### 🔐 ContextGuard
-Permission-aware Context Reconstruction Agent for the Tencent Cloud AI Singapore Hackathon 2026.
+My case study on agent evaluation, boundary cases, failure analysis, and deployment economics for a team-built ReAct claims agent.
 
-### 🥗 FreshLoop
-AI food inventory & meal-planning product with retrieval grounding, deterministic validation, and a 20-case evaluation benchmark.
+- [Team demo](https://www.youtube.com/watch?v=BoABxRL6Eu0)
+- [Runnable team repository](https://github.com/Lapis0x0/pe6201-claims-agent)
+- [Live-model evaluation](https://github.com/Lapis0x0/pe6201-claims-agent/blob/main/docs/d5b_live_battery.md)
 
-### 📩 Enterprise Complaint Email AI Priority Agent
-GPT-4o agent integration for structured complaint classification and UiPath automation.
+### 📩 [Enterprise Complaint Priority Agent](https://github.com/keyvi0508-code/enterprise-complaint-priority-agent)
 
-## Currently exploring
+UiPath AI Agent configuration and priority-classification logic for a team complaint workflow. The supplied source uses `gpt-5.6-terra`; the public evidence covers the classification and Google Sheets integration path, not a deployed end-to-end email system.
 
-AI Product · Agent Product · Enterprise AI · AI Solution
+- [Architecture](https://github.com/keyvi0508-code/enterprise-complaint-priority-agent/blob/main/docs/architecture.md)
+- [Prompt and classification rules](https://github.com/keyvi0508-code/enterprise-complaint-priority-agent/tree/main/prompts)
+- [Evaluation evidence and limitations](https://github.com/keyvi0508-code/enterprise-complaint-priority-agent/tree/main/evaluation)
+
+### 🔐 [ContextGuard — Permission-Aware Context Reconstruction](https://github.com/keyvi0508-code/contextguard-case-study)
+
+Ongoing Tencent Cloud AI Singapore Hackathon project. The public repository contains a small deterministic prototype and evaluation cases demonstrating permission filtering, evidence citations, and human decision boundaries.
+
+- [Architecture](https://github.com/keyvi0508-code/contextguard-case-study/blob/main/docs/architecture.md)
+- [Permission model](https://github.com/keyvi0508-code/contextguard-case-study/blob/main/docs/permission-model.md)
+- [Evaluation cases](https://github.com/keyvi0508-code/contextguard-case-study/tree/main/evaluation)
+
+## Focus
+
+AI Product · Agent Evaluation · Enterprise AI · RAG and Grounding · Workflow Automation · Human-in-the-Loop Systems
 
 ## Connect
 
