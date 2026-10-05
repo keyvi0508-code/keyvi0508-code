@@ -4,6 +4,16 @@ I'm pursuing an MSc in Artificial Intelligence for Enterprise at NTU Singapore. 
 
 ## Selected projects
 
+### 🎬 [Creator Content Review Workbench](https://github.com/keyvi0508-code/sponsorship-ad-constraint-checker)
+
+Independent human-in-the-loop prototype for reviewing English sponsored creator scripts against a source-grounded CHANEL policy pack. It compares a deterministic keyword screen with two-stage AI review, quotes evidence, surfaces uncertainty, and leaves the final decision to a person. Evaluation includes 60 constructed development cases and a 23-caption public pilot; neither establishes real-world compliance accuracy.
+
+- [5-minute product demo](https://github.com/keyvi0508-code/sponsorship-ad-constraint-checker/releases/tag/demo-2026-10-04)
+- [Product architecture and metrics](https://github.com/keyvi0508-code/sponsorship-ad-constraint-checker/blob/main/docs/product_overview.md)
+- [Data and evaluation evidence](https://github.com/keyvi0508-code/sponsorship-ad-constraint-checker/blob/main/reports/README.md)
+
+
+
 ### 🥗 [FreshLoop — AI Food Inventory & Meal Planning](https://github.com/keyvi0508-code/freshloop-ai-product)
 
 Team-built product prototype combining editable inventory capture, constrained recipe generation, deterministic validation, and a frozen 20-case evaluation suite.
